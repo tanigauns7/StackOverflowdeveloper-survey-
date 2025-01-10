@@ -1,1 +1,2 @@
-# StackOverflowdeveloper-survey-
+# StackOverflowdeveloper-survey 
+This project focuses on analyzing the StackOverflow Developer Survey Dataset, a rich source of information about the global developer community. The dataset contains responses from developers worldwide, offering insights into their demographics, education, employment, technologies used, and job satisfaction. By exploring this dataset, we aim to uncover meaningful patterns and trends that highlight the state of the developer ecosystem.
